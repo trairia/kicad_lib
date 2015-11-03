@@ -1,13 +1,17 @@
 Kicad Library files
 ===================
 
-# Components
-## Everlight
+## Components
+### Everlight
 - EAPLRAA6 Optical Reciever
 
-# Footprints
-## Everlight
+### Texus Instruments
+- DIR9001
+- PCM2903C
+
+## Footprints
+### Everlight
 - EAPLRAA6 Optical Reciever
 
-# Caution
+## Caution
 Footprints are testing.
